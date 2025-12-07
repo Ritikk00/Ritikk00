@@ -1,14 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5DC,50:DEB887,100:D2B48C&height=150&section=header&text=Ritik%20Singh%20the%20Developer..&fontSize=45&fontColor=654321&animation=fadeIn"/>
-<img alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5DC,50:DEB887,100:D2B48C&height=150&section=header&text=Ritik%20Singh%20The%20Developer..&fontSize=45&fontColor=654321&animation=fadeIn"/>
+<img alt="Coding" width="620" height="350" src="https://images.squarespace-cdn.com/content/v1/62d3113337e6f8169134a8a6/16625c69-db65-4f50-a689-045d9c1fe4e1/IBMPC-anni_IGF_v03.gif" style="border-radius: 50px; box-shadow: 0 0 25px rgba(0,0,0,0.6); mix-blend-mode: lighten;">
 </div>
----
+
+
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=654321&background=F5F5DC&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Ritik+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Backend+Developer+%F0%9F%9A%80;Node.js+%7C+React+%7C+MySQL;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=654321&background=F5F5DC&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Ritik+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Backend+Developer+%F0%9F%9A%80;Node.js+%7C+React+%7C+MySQL;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+## 🏆 **GITHUB.TROPHIES**
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                    ACHIEVEMENT UNLOCKED                        ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ritikk00&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=7&title=Commits,Repositories,PullRequest,Issues,Stars,Followers,Projects,Experience" alt="GitHub Trophies"/>
+
+</div>
+
 ---
 
 ## 📟 **SYSTEM.INFORMATION**
@@ -31,7 +49,7 @@ console.log(`> Executing: ${ritik.role}.initialize()`);
 
 ## 🖥️ **TECH.ARSENAL**
 
-<div align="center" style="background-color: #F5F5DC; color:00FF99; padding: 20px; border-radius: 10px;">
+<div align="center">
 
 ### **[ FRONTEND DIVISION ]**
 ```
@@ -39,21 +57,18 @@ console.log(`> Executing: ${ritik.role}.initialize()`);
 │  HTML5  │  CSS3  │  JavaScript  │  React │
 └─────────────────────────────────────────┘
 ```
-
 ### **[ BACKEND OPERATIONS ]**
 ```
 ┌──────────────────────────────────────────┐
 │  Node.js  │  Express  │  REST APIs       │
 └──────────────────────────────────────────┘
 ```
-
 ### **[ DATABASE SYSTEMS ]**
 ```
 ┌──────────────────────────────────┐
 │  MySQL  │  MongoDB  │  SQL       │
 └──────────────────────────────────┘
 ```
-
 ### **[ DEVELOPMENT TOOLS ]**
 ```
 ┌─────────────────────────────────────────────┐
@@ -69,44 +84,13 @@ console.log(`> Executing: ${ritik.role}.initialize()`);
 
 ---
 
-## 🏆 **GITHUB.TROPHIES**
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                    ACHIEVEMENT UNLOCKED                        ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ritikk00&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=7&title=Commits,Repositories,PullRequest,Issues,Stars,Followers,Projects,Experience" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 📊 **PERFORMANCE.METRICS**
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                     GITHUB STATISTICS v2.0                     ║
-╠════════════════════════════════════════════════════════════════╣
-║  Commits    : ████████████░░░░░░░░░░  Loading...              ║
-║  PRs        : ████████░░░░░░░░░░░░░░  Loading...              ║
-║  Issues     : ██████░░░░░░░░░░░░░░░░  Loading...              ║
-║  Stars      : ███████████░░░░░░░░░░░  Loading...              ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
 <img src="https://github-readme-stats.vercel.app/api?username=Ritikk00&show_icons=true&theme=dark&bg_color=000000&border_color=C58F2E&icon_color=00FF99&title_color=00FF99&text_color=E0D5C6" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Ritikk00&theme=dark&background=000000&border=C58F2E&ring=00FF99&fire=C58F2E&currStreakLabel=00FF99&sideLabels=C58F2E&dates=E0D5C6&currStreakNum=00FF99&sideNums=C58F2E" height="165"/>
-
-
-
-
 
 <br><br>
 
@@ -118,7 +102,7 @@ console.log(`> Executing: ${ritik.role}.initialize()`);
 
 ## 💾 **CURRENT.PROJECTS**
 
-<div align="center">
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FxbzExOGVqMXVjM3hrdmE4enRha3VsMzY1dnYzNWNrZjdqeGF4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 ```batch
 C:\Users\Ritik\Projects> dir
@@ -135,15 +119,13 @@ Directory of C:\Users\Ritik\Projects
                4 Dir(s)     ∞ bytes free
 ```
 
-</div>
+<br clear="both"/>
 
 ---
 
 ## 🔌 **NETWORK.CONNECTIONS**
 
 <div align="center">
-
-
 
 <br>
 
@@ -157,19 +139,6 @@ Directory of C:\Users\Ritik\Projects
 
 <div align="center">
 
-
-
-<br>
-
-```ascii
-    [========================================]
-    [  THANK YOU FOR VISITING MY PROFILE    ]
-    [  $ whoami → Ritik Singh                ]
-    [  $ status → Available for collaboration]
-    [  $ Open to work                        ]
-    [========================================]
-```
-
 <br>
 
 **⚡ Profile Views Counter ⚡**
@@ -180,9 +149,12 @@ Directory of C:\Users\Ritik\Projects
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║                      EOF - END OF FILE                        ║
+║               THANK YOU FOR VISITING MY PROFILE               ║
+║                 Available for collaboration                   ║
+║                     $ Open to work                            ║
+║                    EOF - END OF FILE                          ║
 ║                    © 2024 Ritik Singh                         ║
-║                  Built with ❤️ and ☕                         ║
+║                  Built with ❤️ and ☕                        ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -195,3 +167,5 @@ Directory of C:\Users\Ritik\Projects
 </div>
 
 ---
+
+
