@@ -22,7 +22,6 @@
 ║                    ACHIEVEMENT UNLOCKED                        ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
-
 <img src="https://github-profile-trophy.vercel.app/?username=Ritikk00&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=7&title=Commits,Repositories,PullRequest,Issues,Stars,Followers,Projects,Experience" alt="GitHub Trophies"/>
 
 </div>
@@ -83,22 +82,25 @@ console.log(`> Executing: ${ritik.role}.initialize()`);
 </div>
 
 ---
-
-## 📊 **PERFORMANCE.METRICS**
+## 📊 **PERFORMANCE METRICS**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ritikk00&show_icons=true&theme=dark&bg_color=000000&border_color=C58F2E&icon_color=00FF99&title_color=00FF99&text_color=E0D5C6" height="165"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ritikk00&show_icons=true&theme=dark&bg_color=000000&border_color=C58F2E&icon_color=00FF99&title_color=00FF99&text_color=E0D5C6" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=Ritikk00&theme=dark&background=000000&border=C58F2E&ring=00FF99&fire=C58F2E&currStreakLabel=00FF99&sideLabels=C58F2E&dates=E0D5C6&currStreakNum=00FF99&sideNums=C58F2E" height="165"/>
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=ritikk00&theme=dark&background=000000&border=C58F2E&ring=00FF99&fire=C58F2E&currStreakLabel=00FF99&sideLabels=C58F2E&dates=E0D5C6&currStreakNum=00FF99&sideNums=C58F2E" height="165"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikk00&bg_color=F5F5DC&color=654321&line=8B4513&point=CD853F&area=true&hide_border=false&border_color=8B4513" alt="GitHub Activity Graph"/>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikk00&bg_color=F5F5DC&color=654321&line=8B4513&point=CD853F&area=true&hide_border=false&border_color=8B4513" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
+
 
 ## 💾 **CURRENT.PROJECTS**
 
