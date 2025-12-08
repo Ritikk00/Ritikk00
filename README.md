@@ -104,7 +104,7 @@ console.log(`> Executing: ${ritik.role}.initialize()`);
 
 ## 💾 **CURRENT.PROJECTS**
 
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FxbzExOGVqMXVjM3hrdmE4enRha3VsMzY1dnYzNWNrZjdqeGF4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
+<img align="right" alt="Coding" width="300" height="240" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FxbzExOGVqMXVjM3hrdmE4enRha3VsMzY1dnYzNWNrZjdqeGF4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 ```batch
 C:\Users\Ritik\Projects> dir
